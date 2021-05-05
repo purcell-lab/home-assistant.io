@@ -41,7 +41,7 @@ Plugs are type `switch` when autodiscovery has been disabled.
 - HS105
 - HS110 (This device is capable of reporting energy usage data to template sensors)
 - KP105
-- KP115
+- KP115 (This device is capable of reporting energy usage data to template sensors)
 
 ### Strip (Multi-Plug)
 
